@@ -20,7 +20,7 @@
 <p>Tuần 5: Hoàn thiện cuốn báo cáo và slide thuyết trình</p>
 
 <h2>Hướng dẫn cách chạy trang web</h2>
-<p>Tải thư mục
-<p>Vào Visual Studio 2022 và bấm chạy trang web</p>
+<p>Tải thư mục scr về máy</p>
+<p>Chạy trang web trên Visual Studio 2022 </p>
 
 
